@@ -1,2 +1,2 @@
 # NodeAPI
-API em Nodejs
+Primeiro Projeto em Nodejs - Construção de uma API usando Swagger e JWT para autenticação.
